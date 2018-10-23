@@ -1,5 +1,3 @@
-# HelloScorelab
-
 # How to Setup
 - install NodeJS
 - Change Directory 'HelloScorelab' and run 'node app.js' in the terminal.
